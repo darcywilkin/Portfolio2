@@ -1,5 +1,7 @@
 .block {
 
+	display: inline-block;
+
     background: gray;
 
     width: 300px;
@@ -16,4 +18,17 @@
 
 }
 
+h2 {font-size: 30px;
 
+	padding-top: 2px;
+	
+	}
+
+.content h2 {
+	margin: 5px;
+}
+
+p {margin: 5px;
+	
+	font-weight: bold;
+	}
